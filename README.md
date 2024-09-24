@@ -28,7 +28,7 @@ Welcome to the **Bubble Game**! 🎮 Test your reflexes in this fun and addictiv
 
 1. Clone this repository using the command below:
    ```bash
-   git clone https://github.com/your-username/bubble-game.git
+   git clone https://github.com/Trumilnasit/bubble-game.git
 Open index.html in your browser to start playing.
 Technologies Used 💻
 HTML5 for structure.
